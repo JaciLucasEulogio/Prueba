@@ -1,8 +1,6 @@
-# React + Vite
+1. **Instalación de Node.js**: Asegúrate de tener Node.js instalado en tu computadora. Puedes descargarlo desde [nodejs.org](https://nodejs.org/) e instalarlo siguiendo las instrucciones.
+2. **Descargar el repositorio**: Descarga el repositorio. Descomprímelo y finalmente abre la carpeta 'Prueba-main' con VSC.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+3. **Instalación de dependencias**: Una vez dentro del directorio de tu proyecto, instala las dependencias necesarias ejecutando el siguiente comando: npm install
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. **Ejecución del servidor de desarrollo**: Finalmente, inicia el servidor de desarrollo de Vite con el siguiente comando: npm run dev
