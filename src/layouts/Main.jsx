@@ -2,7 +2,10 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import '../App.css';
-import Footer from '../components/Footer.jsx';
+<<<<<<< HEAD
+=======
+import Footer from '../components/Footer';
+>>>>>>> 58fca7f9576d41c54bf50c36e887b6ef9eed94b3
 
 const Main = () => {
     return (
