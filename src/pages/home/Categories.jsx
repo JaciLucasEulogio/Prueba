@@ -5,25 +5,25 @@ const categoryItems = [
         id: 1,
         title: 'Main Dish',
         des: '(12 dishes)',
-        image: 'Prueba/images/home/category/img1.png',
+        image: '/images/home/category/img1.png',
     },
     {
         id: 2,
         title: 'Breakfast',
         des: '(8 dishes)',
-        image: 'Prueba/images/home/category/img2.png',
+        image: '/images/home/category/img2.png',
     },
     {
         id: 3,
         title: 'Desserts',
         des: '(6 dishes)',
-        image: 'Prueba/images/home/category/img3.png',
+        image: '/images/home/category/img3.png',
     },
     {
         id: 4,
         title: 'Browse All',
         des: '(4 dishes)',
-        image: 'Prueba/images/home/category/img4.png',
+        image: '/images/home/category/img4.png',
     },
 ];
 
